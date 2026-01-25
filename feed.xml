@@ -3,10 +3,30 @@
     <title>tammy-ann.com</title>
     <link href="https://tammy-ann.com/feed.xml" rel="self" />
     <link href="https://tammy-ann.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-01-25T14:26:07+00:00</updated>
     <author>
         <name>Tammy-ann</name>
     </author>
     <id>https://tammy-ann.com</id>
 
+    <entry>
+        <title>tammy-ann.com</title>
+        <author>
+            <name>Tammy-ann</name>
+        </author>
+        <link href="https://tammy-ann.com/tammy-anncom.html"/>
+        <id>https://tammy-ann.com/tammy-anncom.html</id>
+
+        <updated>2026-01-25T14:26:07+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welcome to tammy-ann.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to tammy-ann.com</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
