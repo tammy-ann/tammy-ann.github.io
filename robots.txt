@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tammy-ann.com/sitemap.xml
