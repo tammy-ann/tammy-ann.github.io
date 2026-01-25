@@ -3,29 +3,33 @@
     <title>tammy-ann.com</title>
     <link href="https://tammy-ann.com/feed.xml" rel="self" />
     <link href="https://tammy-ann.com" />
-    <updated>2026-01-25T14:26:07+00:00</updated>
+    <updated>2026-01-25T15:27:18+00:00</updated>
     <author>
         <name>Tammy-ann</name>
     </author>
     <id>https://tammy-ann.com</id>
 
     <entry>
-        <title>tammy-ann.com</title>
+        <title>testimonials</title>
         <author>
             <name>Tammy-ann</name>
         </author>
-        <link href="https://tammy-ann.com/tammy-anncom.html"/>
-        <id>https://tammy-ann.com/tammy-anncom.html</id>
+        <link href="https://tammy-ann.com/testimonials.html"/>
+        <id>https://tammy-ann.com/testimonials.html</id>
 
-        <updated>2026-01-25T14:26:07+00:00</updated>
+        <updated>2026-01-25T15:27:18+00:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Welcome to tammy-ann.com
+                    Tammy-ann has been my pilates instructor for over 10 years. I have osteoarthritis and scoliosis. Tammy-ann adapts and fine tunes every movement to my needs. I have absolute confidence in her instruction and always enjoy our sessions. She is acomplished in many different types of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Welcome to tammy-ann.com</p>
+                <blockquote>
+<p>Tammy-ann has been my pilates instructor for over 10 years. I have osteoarthritis and scoliosis. Tammy-ann adapts and fine tunes every movement to my needs. I have absolute confidence in her instruction and always enjoy our sessions.</p>
+<p>She is acomplished in many different types of pilates and is always keen to try new ideas to make our sessions more interesting.</p>
+</blockquote>
+<p>Kitty, Walgrave </p>
             ]]>
         </content>
     </entry>

@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://tammy-ann.com/tammy-anncom.html",
-            "url": "https://tammy-ann.com/tammy-anncom.html",
-            "title": "tammy-ann.com",
-            "summary": "Welcome to tammy-ann.com",
-            "content_html": "<p>Welcome to tammy-ann.com</p>",
+            "id": "https://tammy-ann.com/testimonials.html",
+            "url": "https://tammy-ann.com/testimonials.html",
+            "title": "testimonials",
+            "summary": "Tammy-ann has been my pilates instructor for over 10 years. I have osteoarthritis and scoliosis. Tammy-ann adapts and fine tunes every movement to my needs. I have absolute confidence in her instruction and always enjoy our sessions. She is acomplished in many different types of&hellip;",
+            "content_html": "<blockquote>\n<p>Tammy-ann has been my pilates instructor for over 10 years. I have osteoarthritis and scoliosis. Tammy-ann adapts and fine tunes every movement to my needs. I have absolute confidence in her instruction and always enjoy our sessions.</p>\n<p>She is acomplished in many different types of pilates and is always keen to try new ideas to make our sessions more interesting.</p>\n</blockquote>\n<p>Kitty, Walgrave </p>",
             "author": {
                 "name": "Tammy-ann"
             },
             "tags": [
             ],
-            "date_published": "2026-01-25T14:26:07+00:00",
-            "date_modified": "2026-01-25T14:26:07+00:00"
+            "date_published": "2026-01-25T15:27:18+00:00",
+            "date_modified": "2026-01-25T15:27:18+00:00"
         }
     ]
 }
